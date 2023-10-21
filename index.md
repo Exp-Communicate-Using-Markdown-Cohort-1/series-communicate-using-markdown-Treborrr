@@ -1,8 +1,8 @@
 # H1
 sdfdsfsdfsdf
----
+```
 $ git init
----
+```
 sdfsdfsdfs
 ## H2
 
